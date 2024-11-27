@@ -1,0 +1,4 @@
+Git workflow and architecture
+git init - working directory
+git add - staging data
+git commit - local repository
